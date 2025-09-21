@@ -9,7 +9,7 @@ st.write("This app connects to a FastAPI calculator service.")
 # <<<<<<< HEAD
 #=======
 #api_url = "http://0.0.0.0:9321"
-api_url = "https://streamlit-calculator-3.onrender.com"
+api_url = "https://test-api-45nq.onrender.com"
 #>>>>>>> efc449e (added week3 content)
 #api_url = "https://genaiengineering-cohort2-uzeu.onrender.com"
 
